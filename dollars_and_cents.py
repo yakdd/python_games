@@ -35,9 +35,9 @@ print('\
 -----------------------------------------------------')
 
 quest = four_number()
-# ============
-# print(quest)
-# ============
+
+print(quest)
+
 ans = None
 count = 0
 while ans != quest:

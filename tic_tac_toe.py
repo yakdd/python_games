@@ -1,4 +1,3 @@
-
 def print_playing_field(matrix, dim):
     """ Вывод игрового поля в консоль """
     number_of_cell = [i + 1 for i in range(dim)]
